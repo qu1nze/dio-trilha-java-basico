@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-tv/exercicio-tv.iml" filepath="$PROJECT_DIR$/exercicio-tv/exercicio-tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios-arrays/exercicios-arrays.iml" filepath="$PROJECT_DIR$/exercicios-arrays/exercicios-arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios-loops/exercicios-loops.iml" filepath="$PROJECT_DIR$/exercicios-loops/exercicios-loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/teste-github/teste-github.iml" filepath="$PROJECT_DIR$/teste-github/teste-github.iml" />
     </modules>
