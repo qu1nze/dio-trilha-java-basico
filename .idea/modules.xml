@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-metodos/exercicio-metodos.iml" filepath="$PROJECT_DIR$/exercicio-metodos/exercicio-metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-metodos-return/exercicio-metodos-return.iml" filepath="$PROJECT_DIR$/exercicio-metodos-return/exercicio-metodos-return.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-metodos-sobrecarga/exercicio-metodos-sobrecarga.iml" filepath="$PROJECT_DIR$/exercicio-metodos-sobrecarga/exercicio-metodos-sobrecarga.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-tv/exercicio-tv.iml" filepath="$PROJECT_DIR$/exercicio-tv/exercicio-tv.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios-arrays/exercicios-arrays.iml" filepath="$PROJECT_DIR$/exercicios-arrays/exercicios-arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicios-loops/exercicios-loops.iml" filepath="$PROJECT_DIR$/exercicios-loops/exercicios-loops.iml" />
