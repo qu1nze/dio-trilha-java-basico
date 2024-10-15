@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/desafio-mesada/desafio-mesada.iml" filepath="$PROJECT_DIR$/desafio-mesada/desafio-mesada.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-metodos/exercicio-metodos.iml" filepath="$PROJECT_DIR$/exercicio-metodos/exercicio-metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercicio-metodos-return/exercicio-metodos-return.iml" filepath="$PROJECT_DIR$/exercicio-metodos-return/exercicio-metodos-return.iml" />
